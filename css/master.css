@@ -1,0 +1,54 @@
+h1 {
+  color: blue;
+  text-align: center;
+}
+h2 {
+  color: green;
+}
+img {
+  width: 50%;
+}
+p {
+  color: orange;
+  
+}
+
+div {
+  background-color: teal;
+  width: 500px;
+  height: 400px;
+  margin: 30px;
+  padding: 30px;
+  font-family: Arial, sans-serif;
+  font-size: 26px;
+  font-weight: bold;
+  border: 8 px dotted red;
+}
+table{
+  border: 2px solid black;
+  border-collapse: collapse;
+  width: 50%;
+}
+
+th,td {
+  border: 1px solid black;
+  margin: 5px;
+  padding: 5px;
+  text-align: center;
+}
+th {
+  background-color: gray;
+}
+#top{
+  background-color: pink;
+}
+#bottom{
+  background-color: gray;
+}
+.name {
+  color: red;
+  font-weight:  bolder;
+  text-decoration: underline;
+  /* TEMP: .name betekend alltijfd classen */
+
+}
